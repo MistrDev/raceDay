@@ -33,7 +33,7 @@ const getSleepHours = day => {
     } else if (actualSleepHours > idealSleepHours) {
       console.log('You slept too much this week.')
     } else if (actualSleepHours < idealSleepHours) {
-      console.log('You need some more rest.')
+      console.log('You need some more rest..')
     }
   }
   
