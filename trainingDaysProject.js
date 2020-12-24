@@ -33,10 +33,10 @@ const getRandEvent = () => {
   
   const event = getRandEvent();
   const days = getTrainingDays(event);
-  const name = 'Cory';
+  const name = 'Cory J.';
   const event2 = getRandEvent();
   const days2 = getTrainingDays(event2);
-  const name2 = 'Warren';
+  const name2 = 'Greg B.';
   
   
   logEvent(name, event);
