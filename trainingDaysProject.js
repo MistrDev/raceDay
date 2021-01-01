@@ -9,6 +9,7 @@ const getRandEvent = () => {
     }
   };
   
+  
   const getTrainingDays = event => {
   let days = ''
     if (event === 'Marathon') {
